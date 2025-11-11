@@ -4,3 +4,6 @@
 
 
 *from desktop*
+
+
+__OK finally from terminal__
